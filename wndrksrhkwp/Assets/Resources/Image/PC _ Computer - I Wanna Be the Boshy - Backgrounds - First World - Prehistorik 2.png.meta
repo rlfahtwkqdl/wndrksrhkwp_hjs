@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: fd3bc3b314108864aae5adc5f39db0d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6729603421473439077
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_0
+  - first:
+      213: -779761175060051446
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_1
+  - first:
+      213: 1694691841295816313
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_2
+  - first:
+      213: 8330916953902081867
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_3
+  - first:
+      213: -3333164363136291727
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_4
+  - first:
+      213: 4082468771815514512
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_5
+  - first:
+      213: -8153389006282289613
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_6
+  - first:
+      213: -8948308004557253288
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_7
+  - first:
+      213: -8653137365967886352
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_8
+  - first:
+      213: -8601403699243351300
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_9
+  - first:
+      213: -7892271145189638851
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_10
+  - first:
+      213: -8834924969093163552
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_11
+  - first:
+      213: 44852737843120149
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_12
+  - first:
+      213: -1229872284945545044
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_13
+  - first:
+      213: 3450288245853148226
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_14
+  - first:
+      213: 3143964129076114296
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_15
+  - first:
+      213: -588909324320677227
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_16
+  - first:
+      213: -2880501292063699372
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_17
+  - first:
+      213: -7230845679370914757
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_18
+  - first:
+      213: -5452019210986742745
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_19
+  - first:
+      213: 8944145455762806562
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_20
+  - first:
+      213: 1679762493043307816
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_21
+  - first:
+      213: 6487363543801747672
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_22
+  - first:
+      213: 8779128065695127855
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_23
+  - first:
+      213: -1847476027750064704
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_24
+  - first:
+      213: 40618081726644651
+    second: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+      2_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 348
+        width: 855
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9282d7d755ab92a0800000000000000
+      internalID: -6729603421473439077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_1
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 458
+        width: 108
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a87e6b75bbd25f0800000000000000
+      internalID: -779761175060051446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_2
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 458
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97690343041c48710800000000000000
+      internalID: 1694691841295816313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_3
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 458
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47ec9a94dc5d9370800000000000000
+      internalID: 8330916953902081867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_4
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 458
+        width: 78
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c254deba83eb1d0800000000000000
+      internalID: -3333164363136291727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 222
+        width: 217
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09160b6d7b7d7a830800000000000000
+      internalID: 4082468771815514512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 223
+        width: 192
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e08f4b5e759de80800000000000000
+      internalID: -8153389006282289613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_7
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855949fa74931d380800000000000000
+      internalID: -8948308004557253288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_8
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 192
+        width: 131
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f723d47961e9e780800000000000000
+      internalID: -8653137365967886352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 145
+        width: 164
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf28ed068eca1a880800000000000000
+      internalID: -8601403699243351300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 151
+        width: 138
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3df7ef5535097290800000000000000
+      internalID: -7892271145189638851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 92
+        width: 156
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e519ffcc8a046580800000000000000
+      internalID: -8834924969093163552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 103
+        width: 164
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518c752d3595f9000800000000000000
+      internalID: 44852737843120149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 101
+        width: 119
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca809b84cad9eeee0800000000000000
+      internalID: -1229872284945545044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_14
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 78
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24458c211e2e1ef20800000000000000
+      internalID: 3450288245853148226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_15
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 78
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873f62cc7ba91ab20800000000000000
+      internalID: 3143964129076114296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_16
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 79
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59263f6f616c3d7f0800000000000000
+      internalID: -588909324320677227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e4d7f16576608d0800000000000000
+      internalID: -2880501292063699372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 45
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34bd6f4a20e6ab90800000000000000
+      internalID: -7230845679370914757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 47
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c9784e9698654b0800000000000000
+      internalID: -5452019210986742745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_20
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 47
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2279a2667ecff1c70800000000000000
+      internalID: 8944145455762806562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_21
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 62
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825fed07617bf4710800000000000000
+      internalID: 1679762493043307816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_22
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 62
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d85f1585ceb70a50800000000000000
+      internalID: 6487363543801747672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_23
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 62
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f299b61467ab5d970800000000000000
+      internalID: 8779128065695127855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_24
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 18
+        width: 279
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd58e257527c56e0800000000000000
+      internalID: -1847476027750064704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik
+        2_25
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 4
+        width: 279
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba146cc1eed409000800000000000000
+      internalID: 40618081726644651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_0: -6729603421473439077
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_1: -779761175060051446
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_10: -7892271145189638851
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_11: -8834924969093163552
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_12: 44852737843120149
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_13: -1229872284945545044
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_14: 3450288245853148226
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_15: 3143964129076114296
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_16: -588909324320677227
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_17: -2880501292063699372
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_18: -7230845679370914757
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_19: -5452019210986742745
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_2: 1694691841295816313
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_20: 8944145455762806562
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_21: 1679762493043307816
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_22: 6487363543801747672
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_23: 8779128065695127855
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_24: -1847476027750064704
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_25: 40618081726644651
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_3: 8330916953902081867
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_4: -3333164363136291727
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_5: 4082468771815514512
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_6: -8153389006282289613
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_7: -8948308004557253288
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_8: -8653137365967886352
+      PC _ Computer - I Wanna Be the Boshy - Backgrounds - First World - Prehistorik 2_9: -8601403699243351300
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

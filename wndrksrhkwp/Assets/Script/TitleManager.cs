@@ -9,7 +9,7 @@ public class TitleManager : MonoBehaviour
 
     public void GameStart()
     {
-        SceneManager.LoadScene("Stage");
+        SceneManager.LoadScene("Stage_1");
     }
 
     // Update is called once per frame
