@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class TitleManager : MonoBehaviour
@@ -26,5 +26,18 @@ public class TitleManager : MonoBehaviour
     public void GameExit()
     {
         SceneManager.LoadScene("TitleScene");
+    }
+
+    public void QuitGame()
+    {
+        // 실제 빌드된 게임 종료
+        Application.Quit();
+
+        // 유니티 에디터 테스트용 종료
+#if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+#endif
+
+       
     }
 }
