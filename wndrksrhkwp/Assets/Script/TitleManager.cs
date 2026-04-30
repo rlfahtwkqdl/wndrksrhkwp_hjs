@@ -5,6 +5,7 @@ public class TitleManager : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public GameObject helpPanel;
+    public GameObject BodFnel;
 
 
     public void GameStart()
@@ -21,6 +22,16 @@ public class TitleManager : MonoBehaviour
     public void CloseHelp()
     {
         helpPanel.SetActive(false);
+    }
+
+    public void OpenBod()
+    {
+        BodFnel.SetActive(true);
+    }
+
+    public void CloseBod()
+    {
+        BodFnel.SetActive(false);
     }
 
     public void GameExit()

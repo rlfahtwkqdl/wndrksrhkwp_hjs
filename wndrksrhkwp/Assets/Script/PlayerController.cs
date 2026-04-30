@@ -35,10 +35,14 @@ public class PlayerController : MonoBehaviour
 
     private bool canDoubleJump;
 
+    float score;
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         pAni = GetComponent<Animator>();
+        score = 0f;
+
         originalSpeed = moveSpeed; // 게임 시작 시 설정된 기본 속도를 저장해둠
         originalSpeed = moveSpeed;
         originalJumpForce = jumpForce; // 기본 점프력을 저장해둠
@@ -133,6 +137,7 @@ public class PlayerController : MonoBehaviour
 
     public void StartSpeedBoost(float multiplier, float duration)
     {
+        score += 100f;
         // 전체를 멈추지 말고, 속도 코루틴만 돌고 있다면 멈춤
         if (speedCoroutine != null)
             StopCoroutine(speedCoroutine);
@@ -155,6 +160,7 @@ public class PlayerController : MonoBehaviour
 
     public void StartShield(float duration)
     {
+        score += 100f;
         // 중요: StopAllCoroutines()를 지우고, 실드 코루틴만 관리함
         if (shieldCoroutine != null)
             StopCoroutine(shieldCoroutine);
@@ -164,6 +170,8 @@ public class PlayerController : MonoBehaviour
 
     IEnumerator ShieldRoutine(float duration)
     {
+
+
         isInvincible = true;
         if (shieldIcon != null) shieldIcon.SetActive(true);
 
@@ -185,7 +193,7 @@ public class PlayerController : MonoBehaviour
                 // 적을 파괴합니다!
                 Destroy(collision.gameObject);
 
-                
+                score += 100f;
             }
         }
 
@@ -195,12 +203,16 @@ public class PlayerController : MonoBehaviour
         {
             if (collision.CompareTag("Respawn") || collision.CompareTag("Enemy"))
             {
+                score += 1f;
+
                 SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
             }
         }
 
         if (collision.CompareTag("Finish"))
         {
+            HighScore.TrySet(SceneManager.GetActiveScene().buildIndex, (int)score);
+
             collision.GetComponent<LevelObject>().MoveToNextLevel();
         }
     }
