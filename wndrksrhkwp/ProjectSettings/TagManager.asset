@@ -10,6 +10,7 @@ TagManager:
   - Shield
   - SpeedItem
   - JumpItem
+  - Hidnb
   layers:
   - Default
   - TransparentFX
