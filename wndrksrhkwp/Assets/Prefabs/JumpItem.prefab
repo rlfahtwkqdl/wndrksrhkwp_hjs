@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7829430080983457901}
   - component: {fileID: 146813751132466869}
   - component: {fileID: 9032836315986220683}
+  - component: {fileID: 7350023184336407070}
   m_Layer: 0
   m_Name: JumpItem
   m_TagString: JumpItem
@@ -153,3 +154,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::JumpItem
   jumpMultiplier: 4
   duration: 5
+--- !u!114 &7350023184336407070
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8604980078438421439}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7a72cf88678f824fabeebcef1e9a167, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ItemObject
+  data: {fileID: 11400000, guid: 7ef0bb45094867d42ac61c2c94c29fda, type: 2}

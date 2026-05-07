@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8287906766475687682}
   - component: {fileID: 2194980601033937663}
   - component: {fileID: 8262407508103786602}
+  - component: {fileID: -3358228786418999681}
   - component: {fileID: 1282236590637958158}
   m_Layer: 0
   m_Name: shield
@@ -106,6 +107,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ShieldItem
   duration: 3
+--- !u!114 &-3358228786418999681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6536955466196459444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7a72cf88678f824fabeebcef1e9a167, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ItemObject
+  data: {fileID: 11400000, guid: 11324478151d62545839cd3929f662b9, type: 2}
 --- !u!61 &1282236590637958158
 BoxCollider2D:
   m_ObjectHideFlags: 0

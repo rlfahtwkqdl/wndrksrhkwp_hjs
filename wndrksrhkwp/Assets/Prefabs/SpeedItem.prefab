@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6277802173587101886}
   - component: {fileID: 9197117708630801571}
   - component: {fileID: 8253934028646366147}
+  - component: {fileID: -2371926697946844244}
   - component: {fileID: 8827024683087416934}
   m_Layer: 0
   m_Name: SpeedItem
@@ -139,6 +140,19 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.3573173, y: 0.273774}
   m_EdgeRadius: 0
+--- !u!114 &-2371926697946844244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3526378748685199227}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7a72cf88678f824fabeebcef1e9a167, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ItemObject
+  data: {fileID: 11400000, guid: a97b90b2b6a572f499ca8accc063a2fa, type: 2}
 --- !u!114 &8827024683087416934
 MonoBehaviour:
   m_ObjectHideFlags: 0

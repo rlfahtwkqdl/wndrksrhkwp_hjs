@@ -190,10 +190,12 @@ public class PlayerController : MonoBehaviour
             // 닿은 대상이 적(Enemy)이라면
             if (collision.CompareTag("Enemy"))
             {
+
+                score += 100f;
                 // 적을 파괴합니다!
                 Destroy(collision.gameObject);
 
-                score += 100f;
+                
             }
         }
 
@@ -211,7 +213,8 @@ public class PlayerController : MonoBehaviour
 
         if (collision.CompareTag("Finish"))
         {
-            HighScore.TrySet(SceneManager.GetActiveScene().buildIndex, (int)score);
+            //HighScore.TrySet(SceneManager.GetActiveScene().buildIndex, (int)score);
+            StageResultSaver.SaveStage(SceneManager.GetActiveScene().buildIndex, (int)score);
 
             collision.GetComponent<LevelObject>().MoveToNextLevel();
         }

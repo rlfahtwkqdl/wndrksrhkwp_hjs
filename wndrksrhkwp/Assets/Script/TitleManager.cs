@@ -6,12 +6,11 @@ public class TitleManager : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public GameObject helpPanel;
     public GameObject BodFnel;
+    public GameObject RkBodFnel;
 
 
-    public void GameStart()
-    {
-        SceneManager.LoadScene("Stage_1");
-    }
+
+
 
     // Update is called once per frame
     public void OpenHelp()
@@ -32,6 +31,16 @@ public class TitleManager : MonoBehaviour
     public void CloseBod()
     {
         BodFnel.SetActive(false);
+    }
+
+    public void OpenRkBod()
+    {
+        RkBodFnel.SetActive(true);
+    }
+
+    public void CloseRkBod()
+    {
+        RkBodFnel.SetActive(false);
     }
 
     public void GameExit()
